@@ -1,2 +1,5 @@
+include ':USB'
+include ':app:ADSL'
+include ':app:MI'
 include ':app'
 rootProject.name = "DomainModule"

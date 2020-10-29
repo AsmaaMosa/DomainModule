@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DomainModule</string>
+    <string name="title_usb">USB</string>
 </resources>
