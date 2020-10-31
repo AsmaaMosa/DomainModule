@@ -1,4 +1,4 @@
 package com.example.adsl
 
-class InquiryUseCase {
+class AdslInquiryUseCase {
 }
